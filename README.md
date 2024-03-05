@@ -2,4 +2,4 @@
 
 *"This repo is being updated. Please Watch the repo for upcomming updates and codes"*
 
-![System Architecture](/image/architechture.drawio.pdf)
+<img src="https://github.com/Sonny-Inkai/YOU-ARE-WHAT-YOU-EAT-RECSYS/blob/main/image/architechture.drawio.png" />
