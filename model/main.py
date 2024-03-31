@@ -10,4 +10,4 @@ def main():
         print(opt.output_dir)
 
 if __name__ == "__main__":
-    main()fasd
+    main()
