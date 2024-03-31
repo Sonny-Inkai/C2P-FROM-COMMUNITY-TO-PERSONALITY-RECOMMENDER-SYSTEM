@@ -1,4 +1,4 @@
-mport argparse
+import argparse
 
 def main():
     parser = argparse.ArgumentParser()
@@ -10,4 +10,4 @@ def main():
         print(opt.output_dir)
 
 if __name__ == "__main__":
-    main()
+    main()fasd
