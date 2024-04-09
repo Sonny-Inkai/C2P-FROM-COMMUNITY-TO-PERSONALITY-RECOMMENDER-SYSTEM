@@ -1,4 +1,4 @@
-# 🤗 YOU-ARE-WHAT-YOU-EAT-RECSYS 🤗 
+# 🤗 C2P FROM COMMUNITY TO PERSONALITY RECOMMENDATION SYSTEM 🤗 
 
 *"This repo is being updated. Please Watch the repo for upcomming updates and codes"*
 ## YAWYE achitechture
