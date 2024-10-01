@@ -41,24 +41,14 @@ The datasets used in this study are:
 1. **Community Dataset**: Used to pre-train the Community model.
 2. **Personality Dataset**: Used for fine-tuning the Personality model for each user.
 
-## Installation
-
-To set up this project locally, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/C2P-Recommender-System.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd C2P-Recommender-System
-    ```
+## Reproduce
+    You can reproduce this code by only change num_cluster in config, if num_cluster = num_users, that mean this architecture are more personality.
 
 ## Results
 
 Our architecture surpasses several existing models, achieving the best results with:
-- MSE = 0.893
-- RMSE = 0.940
+- MSE = 0.897
+- RMSE = 0.947
 
 The detailed results and comparisons are provided in the paper.
 
