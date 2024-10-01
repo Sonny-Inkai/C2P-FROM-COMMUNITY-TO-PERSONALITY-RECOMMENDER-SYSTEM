@@ -32,7 +32,7 @@ The architecture of the proposed recommendation system involves utilizing Huggin
 
 Features representing a movie are created by combining multiple factors such as budget, genres, production company, production country, runtime, casts, and movie overview.
 
-![Feature Combination](image/features_combined.png)
+![Feature Combination](image/features_combined.drawio.pdf)
 
 ## Datasets
 
